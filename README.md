@@ -28,7 +28,7 @@ A full-stack financial trends dashboard application built using the **MERN** (Mo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/MERN-FinTrends-Dashboard.git
+git clone https://github.com/yashwanth1011/MERN-FinTrends-Dashboard-using-Machine-Learning.git
 cd MERN-FinTrends-Dashboard
 ```
 
@@ -45,7 +45,7 @@ npm install
 - Create a `.env` file in the `server` directory and set the following environment variables:
 
 ```
-MONGO_URI=mongodb://localhost:27017/your-db-name
+MONGO_URI=mongodb://localhost:27017/db
 JWT_SECRET=your_jwt_secret
 PORT=5000
 ```
